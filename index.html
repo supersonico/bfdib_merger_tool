@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <!-- We only include this to explicitly loosen the CSP of various packager environments. It does not provide any security. -->
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob:">
-  <title>Branches Collab Tool v0.8.3</title>
+  <title>Branches Collab Tool v0.8.3.1</title>
   <style>
     body {
       color: #ffffff;
@@ -162,7 +162,7 @@
     <noscript>Enable JavaScript</noscript>
     
     
-    <div class="progress-bar-outer"><div class="progress-bar-inner" id="loading-inner"></div></div>
+    
   </div>
 
   <div id="error" class="screen" hidden>
@@ -224,7 +224,7 @@
       scaffolding.setAccentColor("#00c3ff");
 
       try {
-        scaffolding.addCloudProvider(new Scaffolding.Cloud.WebSocketProvider(["wss://clouddata.turbowarp.org","wss://clouddata.turbowarp.xyz"], "p4-@collabtool_new_8.3_save3.pmp"));
+        scaffolding.addCloudProvider(new Scaffolding.Cloud.WebSocketProvider(["wss://clouddata.turbowarp.org","wss://clouddata.turbowarp.xyz"], "p4-@collabtool_new_8.3.1.pmp"));
       } catch (error) {
         console.error(error);
       }
@@ -241,7 +241,7 @@
       });
       if (vm.setCompilerOptions) vm.setCompilerOptions({
         enabled: true,
-        warpTimer: false
+        warpTimer: true
       });
       if (vm.renderer.setMaxTextureDimension) vm.renderer.setMaxTextureDimension(2048);
 
