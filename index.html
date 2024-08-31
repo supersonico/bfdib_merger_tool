@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <!-- We only include this to explicitly loosen the CSP of various packager environments. It does not provide any security. -->
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob:">
-  <title>Merger Tool v0.8.4.2</title>
+  <title>Merger Tool v0.8.4.1</title>
   <style>
     body {
       color: #ffffff;
@@ -143,7 +143,7 @@
     
   </style>
   <meta name="theme-color" content="#000000">
-  <link rel="icon" href="data:image/png;base64,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">
+  
 </head>
 <body>
   <div id="app"></div>
@@ -201,8 +201,8 @@
       setProgress(0.1);
 
       const scaffolding = new Scaffolding.Scaffolding();
-      scaffolding.width = 360;
-      scaffolding.height = 360;
+      scaffolding.width = 1;
+      scaffolding.height = 1;
       scaffolding.resizeMode = "preserve-ratio";
       scaffolding.editableLists = false;
       scaffolding.usePackagedRuntime = true;
@@ -224,7 +224,7 @@
       scaffolding.setAccentColor("#00c3ff");
 
       try {
-        scaffolding.addCloudProvider(new Scaffolding.Cloud.WebSocketProvider(["wss://clouddata.turbowarp.org","wss://clouddata.turbowarp.xyz"], "p4-@collabtool_new_8.4.2.pmp"));
+        scaffolding.addCloudProvider(new Scaffolding.Cloud.WebSocketProvider(["wss://clouddata.turbowarp.org","wss://clouddata.turbowarp.xyz"], "p4-@collabtool_new_8.4.1.pmp"));
       } catch (error) {
         console.error(error);
       }
