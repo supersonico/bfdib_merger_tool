@@ -22,5 +22,12 @@ If you prefer a local version:
 1. [Download the latest version.](https://github.com/supersonico/bfdib_merger_tool/releases)
 2. Extract the .zip file.
 3. Run the app directly from the extracted folder
----
+
+## Credits
 Made using [PenguinMod](https://penguinmod.com)
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+---
