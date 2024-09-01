@@ -23,3 +23,4 @@ If you prefer a local version:
 2. Extract the .zip file.
 3. Run the app directly from the extracted folder
 ---
+Made using [PenguinMod](https://penguinmod.com)
