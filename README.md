@@ -13,7 +13,7 @@
 ### Browser Usage
 
 You can use the Merger Tool directly from your browser without any downloads or installations.
-https://supersonico.github.io/bfdib_merger_tool/
+http://merge.bfdibranches.com/
 
 ### Download & Run
 
