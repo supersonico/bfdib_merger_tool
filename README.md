@@ -24,7 +24,9 @@ If you prefer a local version:
 3. Run the app directly from the extracted folder
 
 ## Credits
-Made using [PenguinMod](https://penguinmod.com)
+- Made by [supersonico](https://github.com/supersonico).
+- [BFDI: Branches](https://teambranches.itch.io/bfdi-branches) made by Team Branches.
+- Made using [PenguinMod](https://penguinmod.com).
 
 ## License
 
