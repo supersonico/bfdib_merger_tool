@@ -19,9 +19,9 @@ http://merge.bfdibranches.com/
 
 If you prefer a local version:
 
-1. [Download the latest version.](https://github.com/supersonico/bfdib_merger_tool/releases)
+1. [Download the latest version.](https://github.com/supersonico/bfdib_merger_tool/releases).
 2. Extract the .zip file.
-3. Run the app directly from the extracted folder
+3. Run the app directly from the extracted folder.
 
 ## Credits
 - Made by [supersonico](https://github.com/supersonico).
