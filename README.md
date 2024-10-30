@@ -25,6 +25,7 @@ If you prefer a local version:
 
 ## Credits
 - Made by [supersonico](https://github.com/supersonico).
+- Domain provided by [kendelon](https://github.com/kendelons).
 - [BFDI: Branches](https://teambranches.itch.io/bfdi-branches) made by Team Branches.
 - Made using [PenguinMod](https://penguinmod.com).
 
